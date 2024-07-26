@@ -34,14 +34,15 @@ To get started with Crypto App, follow these steps:
 2. **Install dependencies**
 
         npm install
-##Usage
+## Usage
 To start the development server and run the app locally
 
        npm start
 **The app will run on http://localhost:3000.**
 
 
-##Dependencies
+## Dependencies
+
 Crypto App utilizes the following main dependencies:
 
 @chakra-ui/react: For building accessible and customizable UI components.
