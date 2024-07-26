@@ -1,0 +1,29 @@
+.error-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+    background-color: #f8d7da; /* Light red background for error */
+    color: #721c24; /* Dark red text color */
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  /* Styling for the error message box */
+  .error-message {
+    background-color: #f5c6cb; /* Slightly darker red for contrast */
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .error-message h1 {
+    margin: 0;
+    font-size: 2em;
+  }
+  
+  .error-message p {
+    margin: 10px 0 0;
+    font-size: 1.2em;
+  }
