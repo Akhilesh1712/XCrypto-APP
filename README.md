@@ -45,10 +45,17 @@ To start the development server and run the app locally
 Crypto App utilizes the following main dependencies:
 
 @chakra-ui/react: For building accessible and customizable UI components.
+
 @emotion/react and @emotion/styled: For styling components.
+
 axios: For making API requests to fetch real-time data.
+
 chart.js and react-chartjs-2: For rendering interactive charts.
+
 framer-motion: For adding animations to the components.
+
 react, react-dom, and react-router-dom: Core React libraries for building the app.
+
 react-icons: For including various icons in the application.
+
 @testing-library/react, @testing-library/jest-dom, and @testing-library/user-event: For testing purposes.
